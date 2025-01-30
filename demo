@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>サンプル - MathJaxを使って、Web上に数式を表示 - TeX入門</title>
+<script type="text/javascript" async src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+</head>
+<body>
+<h1>MathJax のデモでーす。</h1>
+<p>2次方程式 \(ax^2 + bx + c = 0\) の<b>解の公式</b>は</p>
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$$
+<p>でーす。</p>
+</body>
+</html>
